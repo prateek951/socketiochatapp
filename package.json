@@ -1,0 +1,15 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "A simple Chat Application in Node.js using Websockets Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Madaan",
+  "license": "ISC",
+  "dependencies": {
+    "expresss": "0.0.0",
+    "socket.io": "^2.0.4"
+  }
+}
